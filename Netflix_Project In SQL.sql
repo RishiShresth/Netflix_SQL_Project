@@ -1,5 +1,4 @@
 -- Netflix Project
-DROP TABLE IF EXISTS ne
 CREATE TABLE netflix 
 (
 	show_id	VARCHAR(6),
