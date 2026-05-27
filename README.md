@@ -265,6 +265,6 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/rishishresth)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/rishishresth/)
 
 Thank you for your support, and I look forward to connecting with you!
